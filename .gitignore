@@ -1,0 +1,6 @@
+iBraid.xcodeproj/xcuserdata/*
+iBraid.xcodeproj/project.xcworkspace/*
+
+.DS_Store
+*~
+*.swp
